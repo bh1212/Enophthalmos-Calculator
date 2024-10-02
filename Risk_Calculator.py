@@ -7,7 +7,7 @@ col1, col2, col3,col4,col5,col6 = st.columns([1,1,5,3,1,1])
 
 with col3:
     st.text('')
-    st.image("/Users/aminghobar/Desktop/Amin/Projects and papers/Bashar Hassan Calculator/R Adams Shock Trauma.png") 
+    st.image("R Adams Shock Trauma.png") 
 with col4:
     st.image("JH logo.jpg")
 
