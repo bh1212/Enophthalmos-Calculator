@@ -9,7 +9,7 @@ with col3:
     st.text('')
     st.image("/Users/aminghobar/Desktop/Amin/Projects and papers/Bashar Hassan Calculator/R Adams Shock Trauma.png") 
 with col4:
-    st.image("/Users/aminghobar/Desktop/Amin/Projects and papers/Bashar Hassan Calculator/JH logo.jpg")
+    st.image("JH logo.jpg")
 
 st.header('')
 
