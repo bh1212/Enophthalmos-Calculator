@@ -29,10 +29,10 @@ present_box = st.checkbox('Present', key =2)
 st.write('**Near-total orbital floor defect:**')
 yes2_box = st.checkbox('Present')
 st.write('**Duration from injury to surgery:**')
-duration_box1 = st.checkbox('≤7 days',key =3)
-duration_box2 = st.checkbox('8-14 days')
-duration_box3 =st.checkbox('15-30 days')
-duration_box4 =st.checkbox('>30 days')
+duration_box1 = st.selectbox('≤7 days',key =3)
+duration_box2 = st.selectbox('8-14 days')
+duration_box3 =st.selectbox('15-30 days')
+duration_box4 =st.selectbox('>30 days')
 
 
 
